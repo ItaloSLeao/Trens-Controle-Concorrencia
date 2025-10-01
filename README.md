@@ -28,11 +28,11 @@ O projeto tem como objetivo demonstrar, de forma prática, os problemas e soluç
 
 ```
 
-├── assets/        # Recursos estáticos (imagens, ícones etc.)
-├── controller/    # Lógica de controle da aplicação
-├── model/         # Classes de modelagem do projeto
-├── view/          # Marcação gráfica (FXML)
-└── Principal.java # Classe principal de execução
+├── assets/         # Recursos estáticos (imagens, ícones etc.)
+├── controller/     # Lógica de controle da aplicação
+├── model/          # Classes de modelagem do projeto
+├── view/           # Marcação gráfica (FXML)
+└── Principal.java  # Classe principal de execução
 
 ```
 
