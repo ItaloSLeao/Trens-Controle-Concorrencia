@@ -18,7 +18,8 @@ O projeto tem como objetivo demonstrar, de forma prática, os problemas e soluç
 
 ## 🛠️ Tecnologias Utilizadas
 - **Java 8**  
-- **JavaFX**  
+- **JavaFX**
+- **Threads**
 - Padrão de arquitetura **MVC (Model-View-Controller)**  
 
 ---
