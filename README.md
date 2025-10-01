@@ -51,6 +51,7 @@ O projeto tem como objetivo demonstrar, de forma prática, os problemas e soluç
    java Principal
 
 3. Aprecie
+
    ![Simulação dos trens em execução](assets/simulacao-trens.png)
    
 ---
