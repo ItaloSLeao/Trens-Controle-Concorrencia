@@ -2,12 +2,15 @@
 
 Repositório para agregar o projeto de **Simulação de Condições de Corrida entre trens por trilhos**, desenvolvido em **Java** com interface gráfica em **JavaFX**.  
 
-O projeto tem como objetivo demonstrar, de forma prática, os problemas e soluções de concorrência em sistemas computacionais, aplicados a um cenário de trens que compartilham trilhos em variadas combinações de posicionamento inical do trajeto.
+O projeto tem como objetivo demonstrar, de forma prática, os problemas e soluções de concorrência em sistemas computacionais, aplicados a um cenário de trens que compartilham trilhos em variadas combinações de posicionamentos iniciais do trajeto.
 
 ---
 
 ## 🧩 Funcionalidades
-- Simulação de corrida entre trens em trilhos compartilhados.  
+- Simulação de corrida entre trens em trilhos compartilhados.
+- Manipulação da velocidade de movimentação dos trens.
+- Escolha dos posicionamentos iniciais dos trens na tela.
+- Escolha das soluções de concorrência propostas abaixo.
 - Interface gráfica desenvolvida em **JavaFX**.  
 - Implementação de **mecanismos de controle de concorrência**, tais como:
   - Variáveis de Travamento  
