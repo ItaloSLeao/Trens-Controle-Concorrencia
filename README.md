@@ -38,7 +38,7 @@ O projeto tem como objetivo demonstrar, de forma prática, os problemas e soluç
 
 ---
 
-## 🖥️ Como Executar
+## 🖥️ Execução
 1. Clone este repositório:
    ```bash
    git clone https://github.com/ItaloSLeao/Trens-Controle-Concorrencia.git
@@ -50,6 +50,9 @@ O projeto tem como objetivo demonstrar, de forma prática, os problemas e soluç
    javac Principal.java
    java Principal
 
+3. Aprecie
+   ![Simulação dos trens em execução](assets/simulacao-trens.png)
+   
 ---
 
 ## 🎓 Contexto Acadêmico
@@ -60,4 +63,4 @@ Este projeto foi desenvolvido como parte da disciplina Programação Concorrente
 
 ## 📄 Licença
 
-Este projeto é de uso acadêmico e está sob a licença MIT
+Este projeto é de uso acadêmico e está sob a licença MIT.
